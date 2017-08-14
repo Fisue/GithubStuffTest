@@ -28,6 +28,8 @@ public class MainActivity extends ActionBarActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
+
+        so i just want to add this to my project after undo
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             return true;
