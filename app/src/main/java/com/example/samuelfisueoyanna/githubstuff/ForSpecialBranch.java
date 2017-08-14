@@ -6,4 +6,6 @@ package com.example.samuelfisueoyanna.githubstuff;
 public class ForSpecialBranch {
 
  short s = new short[];
+
+    s = short;
 }
